@@ -1,0 +1,106 @@
+<VendorsConfiguration>
+    <FirstVendor>
+        <Account Code="PS-HLD">
+            <Username>Username</Username>
+            <Password>Password</Password>
+            <URL>SomeURL</URL>
+            <ExternalId>1</ExternalId>
+        </Account>
+        <Account Code="2PS-HLD">
+            <Username>Username</Username>
+            <Password>Password</Password>
+            <URL>SomeURL</URL>
+            <ExternalId>1</ExternalId>
+        </Account>
+    </FirstVendor>
+
+    <SecondVendor>
+        <Account Code="TRO">
+            <Username>Username</Username>
+            <Password>Pass</Password>
+            <URL>SomeURL</URL>
+        <MultiplayerURL>someotherurl</MultiplayerURL>
+        <MultiplayerDemoUrl>demourl</MultiplayerDemoUrl>
+            <ExternalId>FTRO</ExternalId>
+            <Details>URL</Details>
+        <History>HURL</History>
+            <Create>TODO</Create>
+            <Cancel>TODO</Cancel>
+            <DemoUrl>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=FTRO</DemoUrl>
+        <MultiplayerDemoParams>kotui/?first=one&amp;second={0}&amp;third={3}</MultiplayerDemoParams>
+            <RealUrl>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=FTRO</RealUrl>
+        <MultiplayerRealURL>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=FTRO</MultiplayerRealURL>
+        <TransactionUrl>trurl</TransactionUrl>
+            <testtag>something</testtag>
+        </Account>
+        <Account Code="R2R-LVD">
+            <Username>Username</Username>
+            <Password>Pass</Password>
+            <URL>SomeURL</URL>
+        <MultiplayerURL>someotherurl</MultiplayerURL>
+        <MultiplayerDemoUrl>demourl</MultiplayerDemoUrl>
+            <ExternalId>FTRO</ExternalId>
+            <Details>URL</Details>
+        <History>HURL</History>
+            <Create>TODO</Create>
+            <Cancel>TODO</Cancel>
+            <DemoUrl>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=FTRO</DemoUrl>
+            <RealUrl>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=FTRO</RealUrl>
+        <TransactionUrl>trurl</TransactionUrl>
+            <testtag>something</testtag>
+        </Account>
+    </SecondVendor>
+
+    <ThirdVendor>
+         <Account Code="R2R-LVD">
+            <Username>Username</Username>
+            <Password>Pass</Password>
+            <URL>SomeURL</URL>
+        <MultiplayerURL>someotherurl</MultiplayerURL>
+        <MultiplayerDemoUrl>demourl</MultiplayerDemoUrl>
+            <ExternalId>FTRO</ExternalId>
+            <Details>URL</Details>
+        <History>HURL</History>
+            <Create>TODO</Create>
+            <Cancel>TODO</Cancel>
+            <DemoUrl>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=FTRO</DemoUrl>
+            <RealUrl>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=FTRO</RealUrl>
+        <TransactionUrl>trurl</TransactionUrl>
+            <testtag>something</testtag>
+        </Account>
+         <Account Code="R2R-LVD">
+            <Username>Username</Username>
+            <Password>Pass</Password>
+            <URL>SomeURL</URL>
+        <MultiplayerURL>someotherurl</MultiplayerURL>
+        <MultiplayerDemoUrl>demourl</MultiplayerDemoUrl>
+            <ExternalId>FTRO</ExternalId>
+            <Details>URL</Details>
+        <History>HURL</History>
+            <Create>TODO</Create>
+            <Cancel>TODO</Cancel>
+            <DemoUrl>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=FTRO</DemoUrl>
+            <RealUrl>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=FTRO</RealUrl>
+        <TransactionUrl>trurl</TransactionUrl>
+            <testtag>something</testtag>
+        </Account>
+         <Account Code="R2R-LVD">
+            <Username>Username</Username>
+            <Password>Pass</Password>
+            <URL>SomeURL</URL>
+        <MultiplayerURL>someotherurl</MultiplayerURL>
+        <MultiplayerDemoUrl>demourl</MultiplayerDemoUrl>
+            <ExternalId>FTRO</ExternalId>
+            <Details>URL</Details>
+        <History>HURL</History>
+            <Create>TODO</Create>
+            <Cancel>TODO</Cancel>
+            <DemoUrl>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=FTRO</DemoUrl>
+            <RealUrl>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=FTRO</RealUrl>
+        <TransactionUrl>trurl</TransactionUrl>
+            <testtag>something</testtag>
+        </Account>
+
+    </ThirdVendor>
+
+    </VendorsConfiguration>
