@@ -49,7 +49,22 @@
         <TransactionUrl>trurl</TransactionUrl>
             <testtag>something</testtag>
         </Account>
-    </SecondVendor>
+    <Account Code="PS-NEW">
+            <Username>Username</Username>
+            <Password>Pass</Password>
+            <URL>SomeURL</URL>
+        <MultiplayerURL>someotherurl</MultiplayerURL>
+        <MultiplayerDemoUrl>demourl</MultiplayerDemoUrl>
+            <ExternalId>XYZ123</ExternalId>
+            <Details>URL</Details>
+        <History>HURL</History>
+            <Create>TODO</Create>
+            <Cancel>TODO</Cancel>
+            <DemoUrl>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=XYZ123</DemoUrl>
+            <RealUrl>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=XYZ123</RealUrl>
+        <TransactionUrl>trurl</TransactionUrl>
+            <testtag>something</testtag>
+        </Account></SecondVendor>
 
     <ThirdVendor>
          <Account Code="R2R-LVD">
@@ -101,6 +116,21 @@
             <testtag>something</testtag>
         </Account>
 
-    </ThirdVendor>
+    <Account Code="R2R-NewVendor">
+            <Username>Username</Username>
+            <Password>Pass</Password>
+            <URL>SomeURL</URL>
+        <MultiplayerURL>someotherurl</MultiplayerURL>
+        <MultiplayerDemoUrl>demourl</MultiplayerDemoUrl>
+            <ExternalId>FNVD</ExternalId>
+            <Details>URL</Details>
+        <History>HURL</History>
+            <Create>TODO</Create>
+            <Cancel>TODO</Cancel>
+            <DemoUrl>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=FNVD</DemoUrl>
+            <RealUrl>kotui/?first=one&amp;second={0}&amp;third={3}&amp;operatorId=FNVD</RealUrl>
+        <TransactionUrl>trurl</TransactionUrl>
+            <testtag>something</testtag>
+        </Account></ThirdVendor>
 
     </VendorsConfiguration>
